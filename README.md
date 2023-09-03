@@ -1,5 +1,4 @@
-### Hi there 👋
-
+#                   Hi 👋 my name is Mahdi
 <!--
 **marshall619/marshall619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About me :  
+* I'm an software developer with a focus on android with kotlin .  
+* Currently im live in iran .  
+* Learning computer science in birjand university.
+
+📫 How to reach me : [@telegram](https://t.me/Metti619) , [@instagram](https://t.me/Metti619](https://instagram.com/mahdi6.1.9?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)https://instagram.com/mahdi6.1.9?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)

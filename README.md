@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 * Currently im live in iran .  
 * Learning computer science in birjand university.
 
-📫 How to reach me : [@telegram](https://t.me/Metti619) , [@instagram](https://t.me/Metti619](https://instagram.com/mahdi6.1.9?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)https://instagram.com/mahdi6.1.9?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
+📫 How to reach me : [@telegram](https://t.me/Metti619) , [@instagram](https://instagram.com/mahdi6.1.9?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)

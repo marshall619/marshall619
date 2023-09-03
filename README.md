@@ -18,4 +18,22 @@ Here are some ideas to get you started:
 * Currently im live in iran .  
 * Learning computer science in birjand university.
 
-📫 How to reach me : [@telegram](https://t.me/Metti619) , [@instagram](https://instagram.com/mahdi6.1.9?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
+### 📫 How to reach me :  
+* [@telegram](https://t.me/Metti619)
+* [@instagram](https://instagram.com/mahdi6.1.9?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
+
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,cpp,git&theme=dark)](https://skillicons.dev)
+
+### other skills
+* Jetpack compose
+* Dagger hilt
+* Roomdb
+* Data Base
+* Data Store
+* Flow
+* Mvvm / Mvp
+* TDD
+
+
+

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### About me :  
 * I'm an software developer with a focus on android with kotlin .  
-* Currently im live in iran .  
+* Currently live in iran .  
 * Learning computer science in birjand university.
 
 ### 📫 How to reach me :  

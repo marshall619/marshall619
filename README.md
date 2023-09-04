@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### About me :  
-* I'm an software developer with a focus on android with kotlin .  
+* I'm an software developer with a focus on android with kotlin .
+* 23 years old.
 * Currently live in iran .  
 * Learning computer science in birjand university.
 

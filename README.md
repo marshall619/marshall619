@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 * I'm an software developer with a focus on android with kotlin .
 * 23 years old.
 * Currently live in iran .  
-* Learning computer science in birjand university.
+* Learning computer engineering in birjand university.
 
 ### 📫 How to reach me :  
 * [@telegram](https://t.me/Metti619)

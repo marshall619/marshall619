@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 * [@instagram](https://instagram.com/mahdi6.1.9?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=kotlin,java,androidstudio,cpp,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kotlin,java,cpp,git&theme=dark)](https://skillicons.dev)
 
 ### other skills
 * Jetpack compose
